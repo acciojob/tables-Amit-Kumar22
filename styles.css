@@ -4,9 +4,9 @@ table,tr{
 	border: 1px solid black;
 	border-left: none;
 	border-right: none;
-	border-bottom:
-		font:monospace;
+	border-bottom: none;
 }
 .total{
 	text-align: center;
+	
 }
