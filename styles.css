@@ -5,7 +5,8 @@ table,tr{
 	border-left: none;
 	border-right: none;
 	border-bottom:
+		font:monospace;
 }
-.right{
+.total{
 	text-align: center;
 }
